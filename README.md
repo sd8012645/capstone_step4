@@ -11,7 +11,7 @@ for my Machine Learning Engineering capstone project on spam email detection.
 - `02_public_notebooks_links.md`  
   List of public notebooks and repositories used as a basis for reproducing existing solutions.
 
-- `03_reproduced_notebook_spamfilter_template.ipynb`  
+- `03_reproduced_notebook_spamfilter.ipynb`  
   Notebook for reproducing a work on classification of a spam dataset.
 
 - `04_findings.md`  
